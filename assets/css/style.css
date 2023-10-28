@@ -47,10 +47,12 @@ a {
     text-decoration: none;
 }
 
+/* article paragraphs */
 p {
     font-size: 16px;
 }
 
+/* main image */
 .hero {
     height: 800px;
     width: 100%;
