@@ -23,6 +23,7 @@ body {
 
 .header h1 .seo {
     color: #d9dcd6;
+    font: bolder;
 }
 
 .header div {
@@ -57,16 +58,18 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
     background-size: cover;
     background-position: center;
 }
 
+/* "Online rep management" section float */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* 1st and 3rd section float  */
 .float-right {
     float: right;
     margin-left: 25px;
