@@ -8,6 +8,16 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* article paragraphs */
+p {
+    font-size: 16px;
+}
+
 /* Navbar ---------*/
 .header {
     padding: 20px;
@@ -16,6 +26,7 @@ body {
     color: #ffffff;
 }
 
+/* company logo */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -26,6 +37,7 @@ body {
     font: bolder;
 }
 
+/* links in navbar */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,16 +53,6 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/* article paragraphs */
-p {
-    font-size: 16px;
 }
 
 /* main image */
