@@ -11,7 +11,8 @@ N/A
 
 ## Usage
 
-To use this SEO website, you can click on the links in the navbar to see what this company offers. 
+To use this SEO website, you can click on the links in the navbar to see what this company offers. You can click on the link below for full website. 
+https://judy-her.github.io/horiseon-seo/ 
 
    
    ![Screenshot of Horiseon Website](assets/images/screenshot-Horiseon.png)
