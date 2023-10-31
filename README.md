@@ -1,4 +1,4 @@
-# horiseon-seo
+# Horiseon-SEO
 
 ## Description
 
@@ -12,6 +12,10 @@ N/A
 ## Usage
 
 To use this SEO website, you can click on the links in the navbar to see what this company offers. 
+
+   
+   ![Screenshot of Horiseon Website](assets/images/screenshot-Horiseon.png)
+   
 
 
 ## Credits
